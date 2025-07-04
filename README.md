@@ -1,14 +1,17 @@
-# Visco-Attack
+### Visco-Attack
 
-
-## 📁 Dataset | 数据集
-
-The dataset is publicly available via HuggingFace:
-
-📂 [https://huggingface.co/datasets/miaozq/Visco-Attack](https://huggingface.co/datasets/miaozq/Visco-Attack)
+📄 Paper: Visco-Attack: Auditing Safety-Aligned LLMs via Viscoelastic Prompt Injection
 
 ---
 
-## 💻 Code | 代码
+📁 Dataset
 
-🚧 **Coming soon!** We are actively preparing the codebase for release. Stay tuned!
+The dataset is publicly available via HuggingFace:
+
+📂 https://huggingface.co/datasets/miaozq/Visco-Attack
+
+---
+
+💻 Code
+
+🚧 Coming soon! We are actively preparing the codebase for release. Stay tuned!
