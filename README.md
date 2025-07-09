@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <img src="assets/p1.png" alt="" width="28" style="vertical-align: -6px; margin-right: -4px;" />
+    <img src="assets/p1.png" alt="" width="28" style="vertical-align: -5px; margin-right: -4px;" />
     Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection
     <br><br>
     <a href="https://arxiv.org/abs/2507.02844">
