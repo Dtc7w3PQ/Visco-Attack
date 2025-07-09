@@ -1,30 +1,21 @@
 <div align="center">
-
-  <h2 style="margin-bottom: 0.6em;">
-    <img src="assets/p1.png" width="28"
-         style="vertical-align:-4px; margin-right:6px;">
+  <h2>
+    <img src="assets/p1.png" alt="" width="28" style="vertical-align: -5px; margin-right: -4px;" />
     Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection
-  </h2>
-
-  <p>
+    <br><br>
     <a href="https://arxiv.org/abs/2507.02844">
-      <img alt="Paper"
-           src="https://img.shields.io/badge/Paper-arXiv-red?style=flat">
+        <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red?style=flat" />
     </a>
     <a href="https://huggingface.co/datasets/miaozq/Visco-Attack">
-      <img alt="Data"
-           src="https://img.shields.io/badge/Data-Visco-blue?style=flat">
+        <img alt="Data" src="https://img.shields.io/badge/Data-Visco-blue?style=flat" />
     </a>
     <a href="https://github.com/Dtc7w3PQ/Visco-Attack">
-      <img alt="GitHub Stars"
-           src="https://img.shields.io/github/stars/Dtc7w3PQ/Visco-Attack?style=flat&logo=github&color=blueviolet">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Dtc7w3PQ/Visco-Attack?style=flat&logo=github&color=blueviolet" />
     </a>
     <a href="https://huggingface.co/datasets/miaozq/Visco-Attack">
-      <img alt="HF Downloads"
-           src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fmiaozq%2FVisco-Attack&query=%24.downloads&label=downloads&logo=huggingface&color=brightgreen">
+        <img alt="HF Downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fmiaozq%2FVisco-Attack&query=%24.downloads&label=downloads&logo=huggingface&color=brightgreen" />
     </a>
-  </p>
-
+  </h2>
 </div>
 
 <p align="center"><strong><em>VisCo-Attack Original pioneers a vision-centric attack paradigm and leverages multiple images across multi-turn dialogues; its tailored context-fabrication strategies deliver a notably high attack-success rate against leading MLLMs, positioning it as one of the strongest jailbreak methods for MLLMs to date.</em></strong></p>
