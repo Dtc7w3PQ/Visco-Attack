@@ -9,11 +9,11 @@
     <a href="https://huggingface.co/datasets/miaozq/Visco-Attack">
         <img alt="Data" src="https://img.shields.io/badge/Data-Visco-blue?style=flat" />
     </a>
-    <a href="https://github.com/Dtc7w3PQ/Visco-Attack">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Dtc7w3PQ/Visco-Attack?style=flat&logo=github&color=blueviolet" />
-    </a>
     <a href="https://huggingface.co/datasets/miaozq/Visco-Attack">
         <img alt="HF Downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Fmiaozq%2FVisco-Attack&query=%24.downloads&label=downloads&logo=huggingface&color=brightgreen" />
+    </a>
+    <a href="https://github.com/Dtc7w3PQ/Visco-Attack">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Dtc7w3PQ/Visco-Attack?style=flat&logo=github&color=blueviolet" />
     </a>
   </h2>
 </div>
