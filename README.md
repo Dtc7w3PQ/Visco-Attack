@@ -39,7 +39,7 @@
 - **[2025/7/3]** Release the attack contexts for four distinct strategies on **MM-SafetyBench**, now available on [Hugging Face](https://huggingface.co/datasets/miaozq/Visco-Attack). Code will be released upon paper acceptance.
 - **[2025/7/4]** Our paper is now available on arXiv: https://arxiv.org/abs/2507.02844.
 - **[2025/7/19]** Provided SD + Typography images for each realigned MM-SafetyBench sample (SD image on top, keyword below). *Used only for baseline reproduction; not part of our attack method.*
-- **[2025/8/3]** Our Hugging Face dataset downloads have surpassed **8,000** 🎉🎉🎉! Thanks for your support!
+- **[2025/8/14]** Our Hugging Face dataset downloads have surpassed **10,000** 🎉🎉🎉! Thanks for your support!
 
 ## 📝 Overview
 
