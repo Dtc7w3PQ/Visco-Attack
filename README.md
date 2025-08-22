@@ -40,6 +40,7 @@
 - **[2025/7/4]** Our paper is now available on arXiv: https://arxiv.org/abs/2507.02844.
 - **[2025/7/19]** Provided SD + Typography images for each realigned MM-SafetyBench sample (SD image on top, keyword below). *Used only for baseline reproduction; not part of our attack method.*
 - **[2025/8/14]** Our Hugging Face dataset downloads have surpassed **10,000** 🎉🎉🎉! Thanks for your support!
+- **[2025/8/21]** VisCo Attack was accepted to EMNLP 2025 Main Conference! The code will be released soon~
 
 ## 📝 Overview
 
